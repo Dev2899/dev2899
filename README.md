@@ -11,3 +11,4 @@ contribute to meaningful projects that shape the future of technology and develo
 - [LinkedIn](https://www.linkedin.com/in/dev-gohel-335a82217/?originalSubdomain=in)
   
 ⭐ If you find my work interesting and helpful, feel free to give it a star! ⭐
+![icons8-linkedin-48](https://github.com/user-attachments/assets/15c021a4-60fb-4ee4-8cb7-173d4ada18ab)
