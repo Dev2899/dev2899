@@ -1,6 +1,4 @@
-# Hello World! 🌍
-
-Hi there, I'm Dev Gohel - @devil_2899
+# Dev Gohel | @devil_2899
 
    👨‍💻 I'm a Software Developer with 3+ years of experience in building innovative solutions. Passionate 
 about AI 🤖, Science ✨, and Computers 💻, I am constantly exploring new technologies and building 
