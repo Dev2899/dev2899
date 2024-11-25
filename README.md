@@ -1,7 +1,7 @@
 # Dev Gohel | @devil_2899
 
-        👨‍💻 I'm a Software Developer with 3+ years of experience in building innovative solutions. 
-Passionate about AI 🤖, Science ✨, and Computers 💻, I am constantly exploring new technologies and building 
+👨‍💻 I'm a Software Developer with 3+ years of experience in building innovative solutions. Passionate 
+about AI 🤖, Science ✨, and Computers 💻, I am constantly exploring new technologies and building 
 projects that make a difference.
 
 I enjoy working on a wide range of technologies and am always eager to collaborate and learn. My goal is to 
