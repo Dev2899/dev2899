@@ -8,7 +8,8 @@ I enjoy working on a wide range of technologies and am always eager to collabora
 contribute to meaningful projects that shape the future of technology and development.
 
 ## Let's Connect!
-- [icons8-linkedin-48](https://github.com/user-attachments/assets/ce67f965-8a80-4cee-901f-7fe307d8db8a)(https://www.linkedin.com/in/dev-gohel-335a82217/?originalSubdomain=in)
+  [![icons8-linkedin-48](https://github.com/user-attachments/assets/931edf0f-7633-4e9e-821b-0e5677753ff4)
+](https://www.linkedin.com/in/dev-gohel-335a82217/?originalSubdomain=in)
   
 ⭐ If you find my work interesting and helpful, feel free to give it a star! ⭐
 
